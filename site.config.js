@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Sean-s-Blog-afbd0c5876884c03be39186f9d6f7525',
+  rootNotionPageId: 'Sean-s-Blog-b5df3169db0f4072bc510f0e6bfbcbe9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Sean\'s Blog',
-  domain: 'https://pointy-wormhole-c88.notion.site/Sean-s-Blog-afbd0c5876884c03be39186f9d6f7525',
+  domain: 'https://pointy-wormhole-c88.notion.site/Sean-s-Blog-b5df3169db0f4072bc510f0e6bfbcbe9',
   author: 'Sean',
 
   // open graph metadata (optional)

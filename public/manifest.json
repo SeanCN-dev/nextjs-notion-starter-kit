@@ -3,21 +3,21 @@
   "short_name": "Transitive BS",
   "icons": [
     {
-      "src": "/favicon-16x16.png",
+      "src": "/16.png",
       "type": "image/png",
       "sizes": "16x16"
     },
     {
-      "src": "/favicon-32x32.png",
+      "src": "/32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-96x96.png",
+      "src": "/96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
-    {
+    /*{
       "src": "/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "180x180"
@@ -32,7 +32,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
+  ],*/
   "theme_color": "#F898B9",
   "background_color": "#ffffff",
   "display": "standalone"
